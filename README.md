@@ -5,7 +5,7 @@
 - 👨🏻‍🎓 I’m currently learning JS and Webpack 📚
 - ✅ 2020 Goals: Keep exploring the front-end and pass exams for admission to the university.
 
-### Connect with me:
+### ☎️ Connect with me:
 
 [<img align="left" alt="delet-dis | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][website]
 [<img align="left" alt="delet-dis | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages and Tools:
+### 💪🏻Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs-code]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
