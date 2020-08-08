@@ -1,6 +1,7 @@
 ### Hi there, I'm Igor - aka [delet-dis][website] 🖖🏼
 
 ## I'm a Schoolboy and Junior Frontend-developer!
+- 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working on a [Second "Fullstack Developement" task][second-fsd-task]!
 - 👨🏻‍🎓 I’m currently learning JS and Webpack 📚
 - ✅ 2020 Goals: Keep exploring the front-end and pass exams for admission to the university.
