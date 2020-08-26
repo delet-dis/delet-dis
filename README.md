@@ -32,6 +32,9 @@
 <br />
 
 ### 🎧 Spotify now playing
+
+<br />
+
 [![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)](https://open.spotify.com/user/7q8785duio2xdpwrsmpxim2qq)
 
 <br />
