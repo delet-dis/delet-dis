@@ -31,6 +31,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
+<br />
 
 ### 🎧 Spotify now playing
 
@@ -53,4 +54,3 @@
 [npm]: https://www.npmjs.com/
 [less]: http://lesscss.org/
 [pug]: https://pugjs.org/
-[travisci]: https://travis-ci.org/
