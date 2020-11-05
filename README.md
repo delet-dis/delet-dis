@@ -3,7 +3,7 @@
 ## I'm a Schoolboy and Junior Frontend-developer!
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working on a [Second "Fullstack Developement" task][second-fsd-task]!
-- 👨🏻‍🎓 I’m currently learning JS and Webpack 📚
+- 👨🏻‍🎓 I’m currently learning JS, Webpack, Java and Kotlin 📚
 - ✅ 2020 Goals: Keep exploring the front-end and pass exams for admission to the university.
 
 ### ☎️ Connect with me:
