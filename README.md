@@ -27,6 +27,10 @@
 [<img align="left" alt="Figma" width="26px" src="https://static.figma.com/app/icon/1/favicon.png" />][figma]
 [<img align="left" alt="Travis CI" width="26px" src="https://user-images.githubusercontent.com/47276603/92112520-1cead800-ee18-11ea-9f86-bdf4faf55e26.png" />][travisci]
 [<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
+[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][kotlin]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/47276603/98235440-62509080-1f94-11eb-932e-48958fe07aeb.png" />][android-studio]
+[<img align="left" alt="Intellij Idea" width="26px" src="https://user-images.githubusercontent.com/47276603/98235592-99bf3d00-1f94-11eb-9a6c-0db0660a4609.png" />][idea]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -55,3 +59,7 @@
 [less]: http://lesscss.org/
 [pug]: https://pugjs.org/
 [travisci]: https://travis-ci.org/
+[idea]: https://www.jetbrains.com/idea/
+[android-studio]: https://developer.android.com/studio
+[kotlin]: https://kotlinlang.org/
+[java]: https://www.java.com/
