@@ -4,7 +4,7 @@
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working on a [Second "Fullstack Developement" task][second-fsd-task]!
 - 👨🏻‍🎓 I’m currently learning JS, Webpack, Java and Kotlin 📚
-- ✅ 2020 Goals: Keep exploring front-end, android programming and pass exams for admission to the university.
+- ✅ 2020 Goals: Keep exploring front-end, Android programming and pass exams for admission to the university.
 
 ### ☎️ Connect with me:
 
