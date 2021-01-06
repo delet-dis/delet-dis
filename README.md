@@ -1,10 +1,10 @@
 ### Hi there, I'm Igor - aka [delet-dis][website] 🖖🏼
 
-## I'm a Schoolboy and Junior Frontend-developer!
+## I'm a Schoolboy and Junior Frontend and Android developer!
 - 🇷🇺 I'm from Russia, Tomsk
-- 👨🏻‍💻 I’m currently working on a [Second "Fullstack Developement" task][second-fsd-task]!
-- 👨🏻‍🎓 I’m currently learning JS, Webpack, Java and Kotlin 📚
-- ✅ 2020 Goals: Keep exploring front-end, Android programming and pass exams for admission to the university.
+- 👨🏻‍💻 I’m currently done working on a [visual novel task][visual-novel]!
+- 👨🏻‍🎓 I’m currently learning Java, Kotlin, JS and Webpack 📚
+- ✅ 2021 Goals: Keep exploring Android programming and pass exams for admission to the university.
 
 ### ☎️ Connect with me:
 
@@ -44,6 +44,7 @@
 [website]: https://vk.com/delet_dis
 [instagram]: https://instagram.com/delet_dess
 [second-fsd-task]: https://github.com/delet-dis/fsd-second
+[visual-novel]: https://github.com/delet-dis/visual-novel
 [telegram]: https://t.me/delet_dis
 
 [vs-code]: https://code.visualstudio.com
