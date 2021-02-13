@@ -8,31 +8,31 @@
 
 ### ☎️ Connect with me:
 
-[<img align="left" alt="delet-dis | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][website]
-[<img align="left" alt="delet-dis | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="delet-dis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="delet-dis | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />][website]
+[<img align="left" alt="delet-dis | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />][telegram]
+[<img align="left" alt="delet-dis | Instagram" src="https://img.shields.io/badge/-Instagram-4c5df7.svg?logo=instagram&style=for-the-badge" />][instagram]
 
 <br />
 
 ### 💪🏻 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs-code]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="Pug" width="26px" src="https://pugjs.org/images/apple-touch-icon.png" />][pug]
-[<img align="left" alt="Less" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />][less]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Parcel" width="26px" src="https://parceljs.org/assets/parcel-og.png" />][parcel]
-[<img align="left" alt="Figma" width="26px" src="https://static.figma.com/app/icon/1/favicon.png" />][figma]
-[<img align="left" alt="Travis CI" width="26px" src="https://user-images.githubusercontent.com/47276603/92112520-1cead800-ee18-11ea-9f86-bdf4faf55e26.png" />][travisci]
-[<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][kotlin]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/47276603/98235440-62509080-1f94-11eb-932e-48958fe07aeb.png" />][android-studio]
-[<img align="left" alt="Intellij Idea" width="26px" src="https://user-images.githubusercontent.com/47276603/98235592-99bf3d00-1f94-11eb-9a6c-0db0660a4609.png" />][idea]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Visual Studio Code" width="152x" src="https://img.shields.io/badge/-Visual studio code-007ACC.svg?logo=&style=for-the-badge" />][vs-code]
+[<img align="left" alt="HTML5" width="59px" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=&style=for-the-badge" />][html5]
+[<img align="left" alt="CSS3" width="49px" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=&style=for-the-badge" />][css3]
+[<img align="left" alt="Sass" width="49px" src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=&style=for-the-badge" />][sass]
+[<img align="left" alt="Pug" width="42px" src="https://img.shields.io/badge/-Pug-B36153.svg?logo=&style=for-the-badge" />][pug]
+[<img align="left" alt="Less" width="47px" src="https://img.shields.io/badge/-Less-234979.svg?logo=&style=for-the-badge" />][less]
+[<img align="left" alt="JavaScript" width="95x" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=&style=for-the-badge" />][js]
+[<img align="left" alt="Parcel" width="64px" src="https://img.shields.io/badge/-Parcel-C78C62.svg?logo=&style=for-the-badge" />][parcel]
+[<img align="left" alt="Figma" width="57px" src="https://img.shields.io/badge/-Figma-0ACF83.svg?logo=&style=for-the-badge" />][figma]
+[<img align="left" alt="Travis CI" width="82px" src="https://img.shields.io/badge/-Travis ci-3EAAAF.svg?logo=&style=for-the-badge" />][travisci]
+[<img align="left" alt="NPM" width="44px" src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=&style=for-the-badge" />][npm]
+[<img align="left" alt="Kotlin" width="64px" src="https://img.shields.io/badge/-Kotlin-F88909.svg?logo=&style=for-the-badge" />][kotlin]
+[<img align="left" alt="Java" width="49px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
+[<img align="left" alt="Android Studio" width="126px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
+[<img align="left" alt="Intellij Idea" width="106px" src="https://img.shields.io/badge/-Intellij%20idea-000000.svg?logo=intellijidea&style=for-the-badge" />][idea]
+[<img align="left" alt="Git" width="39x" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
+[<img align="left" alt="GitHub" width="66px" src="https://img.shields.io/badge/-Github-181717.svg?logo=&style=for-the-badge" />][github]
 
 <br/>
 <br/>
