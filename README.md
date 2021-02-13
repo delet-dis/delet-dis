@@ -30,7 +30,7 @@
 [<img  alt="Java" width="49px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
 [<img  alt="Android Studio" width="128px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
 [<img  alt="Intellij Idea" width="110px" src="https://img.shields.io/badge/-Intellij%20idea-000000.svg?logo=intellijidea&style=for-the-badge" />][idea]
-[<img  alt="Git" width="42x" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
+[<img  alt="Git" width="40x" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
 [<img  alt="GitHub" width="67px" src="https://img.shields.io/badge/-Github-181717.svg?logo=&style=for-the-badge" />][github]
 
 <br/>
