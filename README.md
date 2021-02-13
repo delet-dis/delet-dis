@@ -12,7 +12,6 @@
 [<img alt="delet-dis | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />][telegram]
 [<img alt="delet-dis | Instagram" src="https://img.shields.io/badge/-Instagram-4c5df7.svg?logo=instagram&style=for-the-badge" />][instagram]
 
-<br />
 
 ### 💪🏻 Languages and Tools:
 
