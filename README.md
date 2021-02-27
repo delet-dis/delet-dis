@@ -2,7 +2,7 @@
 
 ## I'm a Schoolboy and Junior Frontend and Android developer!
 - 🇷🇺 I'm from Russia, Tomsk
-- 👨🏻‍💻 I’m currently done working on a [visual novel task][visual-novel]!
+- 👨🏻‍💻 I’m currently working on a [MAD Meditation app][mad-meditation]!
 - 👨🏻‍🎓 I’m currently learning Java, Kotlin, JS and Webpack 📚
 - ✅ 2021 Goals: Keep exploring Android programming and pass exams for admission to the university.
 
@@ -45,7 +45,7 @@
 [website]: https://vk.com/delet_dis
 [instagram]: https://instagram.com/delet_dess
 [second-fsd-task]: https://github.com/delet-dis/fsd-second
-[visual-novel]: https://github.com/delet-dis/visual-novel
+[mad-meditation]: https://github.com/delet-dis/MAD-meditation
 [telegram]: https://t.me/delet_dis
 
 [vs-code]: https://code.visualstudio.com
