@@ -13,8 +13,13 @@
 [<img alt="delet-dis | Instagram" src="https://img.shields.io/badge/-Instagram-4c5df7.svg?logo=instagram&style=for-the-badge" />][instagram]
 
 
-### 💪🏻 Languages and Tools:
+### 💪🏻 Tech stack:
 
+[<img  alt="Kotlin" height="25px" src="https://img.shields.io/badge/-Kotlin-B24DFF.svg?logo=&style=for-the-badge" />][kotlin]
+[<img  alt="Android Jetpack" height="25px" src="https://img.shields.io/badge/-Android Jetpack-67C951.svg?logo=&style=for-the-badge" />][jetpack]
+[<img  alt="Android Studio" height="25px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
+[<img  alt="Java" height="25px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
+[<img  alt="Intellij Idea" height="25px" src="https://img.shields.io/badge/-Intellij%20idea-000000.svg?logo=intellijidea&style=for-the-badge" />][idea]
 [<img  alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/-Visual studio code-007ACC.svg?logo=&style=for-the-badge" />][vs-code]
 [<img  alt="HTML5" height="25px" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=&style=for-the-badge" />][html5]
 [<img  alt="CSS3" height="25px" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=&style=for-the-badge" />][css3]
@@ -23,13 +28,11 @@
 [<img  alt="Less" height="25px" src="https://img.shields.io/badge/-Less-234979.svg?logo=&style=for-the-badge" />][less]
 [<img  alt="JavaScript" height="25x" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=&style=for-the-badge" />][js]
 [<img  alt="Parcel" height="25px" src="https://img.shields.io/badge/-Parcel-C78C62.svg?logo=&style=for-the-badge" />][parcel]
-[<img  alt="Figma" height="25px" src="https://img.shields.io/badge/-Figma-0ACF83.svg?logo=&style=for-the-badge" />][figma]
-[<img  alt="Travis CI" height="25px" src="https://img.shields.io/badge/-Travis ci-3EAAAF.svg?logo=&style=for-the-badge" />][travisci]
 [<img  alt="NPM" height="25px" src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=&style=for-the-badge" />][npm]
-[<img  alt="Kotlin" height="25px" src="https://img.shields.io/badge/-Kotlin-F88909.svg?logo=&style=for-the-badge" />][kotlin]
-[<img  alt="Java" height="25px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
-[<img  alt="Android Studio" height="25px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
-[<img  alt="Intellij Idea" height="25px" src="https://img.shields.io/badge/-Intellij%20idea-000000.svg?logo=intellijidea&style=for-the-badge" />][idea]
+[<img  alt="Figma" height="25px" src="https://img.shields.io/badge/-Figma-0ACF83.svg?logo=&style=for-the-badge" />][figma]
+[<img  alt="Postman" height="25px" src="https://img.shields.io/badge/-Postman-FD6F36.svg?logo=&style=for-the-badge"/>][postman]
+[<img  alt="Travis CI" height="25px" src="https://img.shields.io/badge/-Travis ci-3EAAAF.svg?logo=&style=for-the-badge" />][travisci]
+[<img  alt="Github actions" height="25px" src="https://img.shields.io/badge/-Github actions-2F6EFB.svg?logo=&style=for-the-badge" />][github-actions]
 [<img  alt="Git" height = "25px" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
 [<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-Github-181717.svg?logo=&style=for-the-badge" />][github]
 
@@ -65,3 +68,6 @@
 [android-studio]: https://developer.android.com/studio
 [kotlin]: https://kotlinlang.org/
 [java]: https://www.java.com/
+[postman]: https://www.postman.com/
+[jetpack]: https://developer.android.com/jetpack
+[github-actions]: https://github.com/features/actions
