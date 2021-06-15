@@ -48,7 +48,7 @@
 [website]: https://vk.com/delet_dis
 [instagram]: https://instagram.com/delet_dess
 [second-fsd-task]: https://github.com/delet-dis/fsd-second
-[elementary-launcher]: https://github.com/delet-dis/Elementary-launcher
+[elementary-launcher]: https://github.com/delet-dis/ElementaryLauncher
 [telegram]: https://t.me/delet_dis
 
 [vs-code]: https://code.visualstudio.com
