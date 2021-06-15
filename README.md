@@ -19,7 +19,7 @@
 [<img  alt="Android Jetpack" height="25px" src="https://img.shields.io/badge/-Android Jetpack-67C951.svg?logo=&style=for-the-badge" />][jetpack]
 [<img  alt="Android Studio" height="25px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
 [<img  alt="Java" height="25px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
-[<img  alt="Intellij Idea" height="25px" src="https://img.shields.io/badge/-Intellij%20idea-000000.svg?logo=intellijidea&style=for-the-badge" />][idea]
+[<img  alt="Intellij Idea" height="25px" src="https://img.shields.io/badge/-Intellij%20idea-000000.svg?logo=&style=for-the-badge" />][idea]
 [<img  alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/-Visual studio code-007ACC.svg?logo=&style=for-the-badge" />][vs-code]
 [<img  alt="HTML5" height="25px" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=&style=for-the-badge" />][html5]
 [<img  alt="CSS3" height="25px" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=&style=for-the-badge" />][css3]
