@@ -1,10 +1,10 @@
 ### Hi there, I'm Igor - aka [delet-dis][website] 🖖🏼
 
-## I'm a Schoolboy and Junior Frontend and Android developer!
+## I'm a student and junior android developer!
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working on a [Elementary launcher app][elementary-launcher]!
-- 👨🏻‍🎓 I’m currently learning Java, Kotlin, JS and Webpack 📚
-- ✅ 2021 Goals: Keep exploring Android programming and pass exams for admission to the university.
+- 👨🏻‍🎓 I’m currently learning Kotlin, Java
+- ✅ 2021 Goals: Keep exploring Android programming and successfully study in the first year of the university.
 
 ### ☎️ Connect with me:
 
