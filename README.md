@@ -1,10 +1,10 @@
 ### Hi there, I'm Igor - aka [delet-dis][website] 🖖🏼
 
-## I'm a student and junior android developer!
+## I'm a student and junior Android and iOS developer!
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working on a [Elementary launcher app][elementary-launcher]!
-- 👨🏻‍🎓 I’m currently learning Kotlin, Java
-- ✅ 2021 Goals: Keep exploring Android programming and successfully study in the first year of the university.
+- 👨🏻‍🎓 I’m currently learning Kotlin and Swift
+- ✅ 2021 Goals: Keep exploring Android and iOS programming and successfully study in the first year of the university.
 
 ### ☎️ Connect with me:
 
@@ -20,6 +20,10 @@
 [<img  alt="Android Studio" height="25px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
 [<img  alt="Java" height="25px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
 [<img  alt="Intellij Idea" height="25px" src="https://img.shields.io/badge/-Intellij%20idea-000000.svg?logo=&style=for-the-badge" />][idea]
+[<img  alt="Swift" height="25px" src="https://img.shields.io/badge/-Swift-F04934.svg?logo=&style=for-the-badge" />][swift]
+[<img  alt="SwiftUI" height="25px" src="https://img.shields.io/badge/-SwiftUI-1FCBFF.svg?logo=&style=for-the-badge" />][swiftui]
+[<img  alt="Xcode" height="25px" src="https://img.shields.io/badge/-Xcode-2964D6.svg?logo=&style=for-the-badge" />][xcode]
+[<img  alt="AppCode" height="25px" src="https://img.shields.io/badge/-AppCode-1CDA92.svg?logo=&style=for-the-badge" />][appcode]
 [<img  alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/-Visual studio code-007ACC.svg?logo=&style=for-the-badge" />][vs-code]
 [<img  alt="HTML5" height="25px" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=&style=for-the-badge" />][html5]
 [<img  alt="CSS3" height="25px" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=&style=for-the-badge" />][css3]
@@ -71,3 +75,7 @@
 [postman]: https://www.postman.com/
 [jetpack]: https://developer.android.com/jetpack
 [github-actions]: https://github.com/features/actions
+[swift]: https://www.apple.com/swift/
+[swiftui]: https://developer.apple.com/xcode/swiftui/
+[xcode]: hhttps://developer.apple.com/xcode/
+[appcode]: https://www.jetbrains.com/objc/
