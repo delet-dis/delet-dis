@@ -4,7 +4,7 @@
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working on a [Elementary launcher app][elementary-launcher]!
 - 👨🏻‍🎓 I’m currently learning Kotlin and Swift
-- ✅ 2021 Goals: Keep exploring Android and iOS programming and successfully study in the first year of the university.
+- ✅ 2022 Goals: Keep exploring Android and iOS programming and successfully study in the first year of the university.
 
 ### ☎️ Connect with me:
 
