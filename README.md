@@ -25,6 +25,8 @@
 [<img  alt="Xcode" height="25px" src="https://img.shields.io/badge/-Xcode-2964D6.svg?logo=&style=for-the-badge" />][xcode]
 [<img  alt="AppCode" height="25px" src="https://img.shields.io/badge/-AppCode-1CDA92.svg?logo=&style=for-the-badge" />][appcode]
 [<img  alt="Visual Studio Code" height="25px" src="https://img.shields.io/badge/-Visual studio code-007ACC.svg?logo=&style=for-the-badge" />][vs-code]
+[<img  alt="Vue" height="25px" src="https://img.shields.io/badge/-Vue-41B883.svg?logo=&style=for-the-badge" />][vue]
+[<img  alt="TypeScript" height="25px" src="https://img.shields.io/badge/-TypeScript-2C7489.svg?logo=&style=for-the-badge" />][typescript]
 [<img  alt="HTML5" height="25px" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=&style=for-the-badge" />][html5]
 [<img  alt="CSS3" height="25px" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=&style=for-the-badge" />][css3]
 [<img  alt="Sass" height="25px" src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=&style=for-the-badge" />][sass]
@@ -79,3 +81,5 @@
 [swiftui]: https://developer.apple.com/xcode/swiftui/
 [xcode]: hhttps://developer.apple.com/xcode/
 [appcode]: https://www.jetbrains.com/objc/
+[vue]: https://vuejs.org
+[typescript]: https://www.typescriptlang.org
