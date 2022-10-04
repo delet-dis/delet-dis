@@ -2,9 +2,9 @@
 
 ## I'm a student and junior Android and iOS developer!
 - 🇷🇺 I'm from Russia, Tomsk
-- 👨🏻‍💻 I’m currently working on a [Elementary launcher app][elementary-launcher]!
-- 👨🏻‍🎓 I’m currently learning Kotlin and Swift
-- ✅ 2022 Goals: Keep exploring Android and iOS programming and successfully study in the first year of the university.
+- 👨🏻‍💻 I’m currently working as a freelancer
+- 👨🏻‍🎓 I’m currently learning both Android and iOS programming
+- ✅ 2022 Goals: Keep exploring mobile app development and successfully study in the second year of the university.
 
 ### ☎️ Connect with me:
 
