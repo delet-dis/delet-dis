@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor - aka [delet-dis][website] 🖖🏼
 
-## I'm a student and junior Android and iOS developer!
+## I'm a student and middle Android and iOS developer!
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working as a freelancer
 - 👨🏻‍🎓 I’m currently learning both Android and iOS programming
