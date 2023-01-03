@@ -42,15 +42,6 @@
 [<img  alt="Git" height = "25px" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
 [<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-Github-181717.svg?logo=&style=for-the-badge" />][github]
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-### 🎧 Spotify now playing
-
-[![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)](https://open.spotify.com/user/7q8785duio2xdpwrsmpxim2qq)
-
 [website]: https://vk.com/delet_dis
 [instagram]: https://instagram.com/delet_dess
 [second-fsd-task]: https://github.com/delet-dis/fsd-second
