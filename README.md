@@ -4,7 +4,7 @@
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍💻 I’m currently working as a freelancer
 - 👨🏻‍🎓 I’m currently learning both Android and iOS programming
-- ✅ 2022 Goals: Keep exploring mobile app development and successfully study in the second year of the university.
+- ✅ 2023 Goals: Keep exploring mobile app development and successfully study in the third year of the university.
 
 ### ☎️ Connect with me:
 
