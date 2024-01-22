@@ -2,15 +2,15 @@
 
 ## I'm a student and middle Android and iOS developer!
 - 🇷🇺 I'm from Russia, Tomsk
-- 👨🏻‍💻 I’m currently working as a freelancer
-- 👨🏻‍🎓 I’m currently learning both Android and iOS programming
-- ✅ 2023 Goals: Keep exploring mobile app development and successfully study in the third year of the university.
+- 👨🏻‍💻 I’m currently working as a freelancer, Samsung IT-School Teacher 🧑🏻‍🏫 and MIPT Phystech 🏫 mobile developer and tester 
+- 👨🏻‍🎓 I’m currently teaching schoolchildren Android development
+- ✅ 2024 Goals: Keep working hard 💪🏻 and successfully study in the third year of the university
 
 ### ☎️ Connect with me:
 
 [<img alt="delet-dis | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />][website]
 [<img alt="delet-dis | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />][telegram]
-[<img alt="delet-dis | Instagram" src="https://img.shields.io/badge/-Instagram-4c5df7.svg?logo=instagram&style=for-the-badge" />][instagram]
+[<img alt="delet-dis | Instagram" src="https://img.shields.io/badge/-Instagram-ffffff.svg?logo=instagram&style=for-the-badge" />][instagram]
 
 
 ### 💪🏻 Tech stack:
