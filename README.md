@@ -2,7 +2,7 @@
 
 ### 🌟 What I do:
 - 🚀 **Shipping bugs (and occasionally features)** since 2020
-- 👨🏻‍🎓 **In the final year** of my Bachelor’s in Software Engineering
+- 👨🏻‍🎓 **In the first year** of Master’s in Software Engineering
 - 💼 **Freelancing**, collaborating with clients worldwide to build awesome products
 - 🎨 **Committed to crafting top-notch UI/UX** for seamless user experiences
 - 🧪 **Constantly learning and experimenting** with the latest tools, frameworks, and technologies
